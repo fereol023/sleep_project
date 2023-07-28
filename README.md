@@ -26,6 +26,7 @@ ENVIRONNEMENT VIRTUEL MYSLEEPENV -----------------------------------------
 ---------------------------------------------------------------------------
 
 a) Collecte des données :
+   - source kaggle : https://www.kaggle.com/code/wilmerarltstrmberg/sleep-disorder-feature-analysis/log
    - Utiliser l'API Kaggle pour extraire des ensembles de données pertinents sur la durée de sommeil et les habitudes quotidiennes des software engineers.
    - Vérifier la qualité des données et effectuer un prétraitement initial pour éliminer les valeurs aberrantes et les données manquantes.
 
@@ -45,9 +46,9 @@ d) Modélisation prédictive :
    - Évaluer les performances de chaque modèle en utilisant des mesures telles que l'erreur quadratique moyenne (RMSE) ou la précision des prédictions.
 
 4. Résultats attendus :
-- Identification des habitudes quotidiennes spécifiques des software engineers ayant un impact significatif sur la durée du sommeil.
+- Identification des habitudes quotidiennes qui ont un impact significatif sur la durée du sommeil.
 - Évaluation comparative des performances des modèles de machine learning dans la prédiction de la durée du sommeil des software engineers.
-- Estimation de la durée de sommeil optimale pour les software engineers en fonction de leurs habitudes quotidiennes.
+- Estimation de la durée de sommeil en fonction de leurs habitudes quotidiennes.
 
 
 
